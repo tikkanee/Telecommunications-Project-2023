@@ -18,9 +18,8 @@ This project focuses on creating a client for Nordic nRF5340, a sensor device, t
 
 - Machine Learning Integration: Develop a custom program to fetch data from the HTTP API, processing it for machine learning purposes on a local machine.
   
-![Alt text]((https://github.com/user-attachments/assets/53b89db5-c55b-463b-ae9b-24636f9d7167 "Diagram illustrating data transfer connections and various components of the project ")
-
 ![1](https://github.com/user-attachments/assets/8dd420c4-b620-421c-9c01-2296d7079738 "Diagram illustrating data transfer connections and various components of the project ")
+
 
 ## Nordic BLE
 
@@ -41,7 +40,7 @@ This project focuses on creating a client for Nordic nRF5340, a sensor device, t
   
   Modified the program to send direction information, as well as x, y, and z acceleration values over the BLE connection when someone subscribes to sensor 
 
-![Alt text]((https://github.com/user-attachments/assets/a180e52a-37e9-4af1-881f-5f97c9ce3c05 "Nordic nRf5340 and accelometer")
+![2](https://github.com/user-attachments/assets/76d52e8e-1bcb-4dc1-b680-786869cf40d5 "Nordic nRf5340 and accelometer")
 
 
 
@@ -68,11 +67,7 @@ This project focuses on creating a client for Nordic nRF5340, a sensor device, t
 
   Introduced a new Python script capable of fetching data directly from the database using the MySQL interface.
 
-
-![Alt text](https://github.com/vuip96/TietoliikenteensovellusProjekti_R20/assets/112549883/da7775b8-7412-4e37-b68e-3ed6e14c68da "Raspberry Pi")
-
-
-
+![3](https://github.com/user-attachments/assets/d1fc7b37-5dd9-491a-a959-8f200033a9a2 "Raspberry Pi")
 
 
 
@@ -95,10 +90,8 @@ This project focuses on creating a client for Nordic nRF5340, a sensor device, t
   
   Stored the trained centroids in MySQL for easy retrieval and reference.
 
-
-![Alt text](https://github.com/vuip96/TietoliikenteensovellusProjekti_R20/assets/112549883/d334a6ca-e607-4367-98d4-564b05d73c50 "Pictures show how centroids move towards datapoint groups after one iteration")
-![Alt text](https://github.com/vuip96/TietoliikenteensovellusProjekti_R20/assets/112549883/76baec58-a9a0-4d4c-badc-b5ef1afda7bc "Pictures show how centroids move towards datapoint groups after one iteration")
-
+![4](https://github.com/user-attachments/assets/43ff12c9-02b2-421f-8e4f-d81650bb2f71 "Pictures show how centroids move towards datapoint groups after one iteration")
+![5](https://github.com/user-attachments/assets/caeec937-4a8e-4deb-867d-98fcb98f2102 "Pictures show how centroids move towards datapoint groups after one iteration")
 
 
 
@@ -121,7 +114,8 @@ This project focuses on creating a client for Nordic nRF5340, a sensor device, t
 
   The result of the project is a confusion matrix that showcases the effectiveness of the K-means classification algorithm
 
-![Alt text](https://github.com/vuip96/TietoliikenteensovellusProjekti_R20/assets/112549883/607dd601-7a47-4702-8869-3a3e2929a4e2 "Compeleted confusion matrix")
+![6](https://github.com/user-attachments/assets/b5831c7e-e325-44ee-9872-fd23dd6fbd69 "Compeleted confusion matrix")
+
 
 
 ## Additional tasks
@@ -133,8 +127,9 @@ This project focuses on creating a client for Nordic nRF5340, a sensor device, t
   ### Apache + PHP (Linux)
 
   We set up a Apache web server and PHP on a Linux server. It includes PHP scripts for basic date display and fetching data from a MySQL database. The repository also contains instructions to capture and analyze network traffic between the server and browser using tcpdump and Wireshark. The goal is to analyze page loading times and HTTP response headers both through tcpdump and browser debugging tools.
+  
+![7](https://github.com/user-attachments/assets/76ba2ad1-aa42-49e4-a2ec-944fc2b26b30 "Connected to our Linux server")
 
-![Alt text](https://github.com/vuip96/TietoliikenteensovellusProjekti_R20/assets/112549883/2f1dfc42-441f-4914-bc56-728d6b631be6 "Connected to our Linux server")
 
   ### Thunder Client
 
