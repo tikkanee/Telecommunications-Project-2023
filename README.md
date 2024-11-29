@@ -18,7 +18,7 @@ This project focuses on creating a client for Nordic nRF5340, a sensor device, t
 
 - Machine Learning Integration: Develop a custom program to fetch data from the HTTP API, processing it for machine learning purposes on a local machine.
   
-![Alt text](![image](https://github.com/user-attachments/assets/53b89db5-c55b-463b-ae9b-24636f9d7167) "Diagram illustrating data transfer connections and various components of the project ")
+![Alt text]((https://github.com/user-attachments/assets/53b89db5-c55b-463b-ae9b-24636f9d7167 "Diagram illustrating data transfer connections and various components of the project ")
 
 
 
@@ -41,7 +41,7 @@ This project focuses on creating a client for Nordic nRF5340, a sensor device, t
   
   Modified the program to send direction information, as well as x, y, and z acceleration values over the BLE connection when someone subscribes to sensor 
 
-![Alt text](![image](https://github.com/user-attachments/assets/a180e52a-37e9-4af1-881f-5f97c9ce3c05) "Nordic nRf5340 and accelometer")
+![Alt text]((https://github.com/user-attachments/assets/a180e52a-37e9-4af1-881f-5f97c9ce3c05 "Nordic nRf5340 and accelometer")
 
 
 
