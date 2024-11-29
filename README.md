@@ -20,7 +20,7 @@ This project focuses on creating a client for Nordic nRF5340, a sensor device, t
   
 ![Alt text]((https://github.com/user-attachments/assets/53b89db5-c55b-463b-ae9b-24636f9d7167 "Diagram illustrating data transfer connections and various components of the project ")
 
-
+![1](https://github.com/user-attachments/assets/8dd420c4-b620-421c-9c01-2296d7079738)
 
 ## Nordic BLE
 
