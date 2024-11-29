@@ -18,7 +18,7 @@ This project focuses on creating a client for Nordic nRF5340, a sensor device, t
 
 - Machine Learning Integration: Develop a custom program to fetch data from the HTTP API, processing it for machine learning purposes on a local machine.
   
-![Alt text](https://github.com/vuip96/TietoliikenteensovellusProjekti_R20/assets/127893120/27540867-a950-4af7-b15e-572f87cd621f "Diagram illustrating data transfer connections and various components of the project ")
+![Alt text](![image](https://github.com/user-attachments/assets/53b89db5-c55b-463b-ae9b-24636f9d7167 "Diagram illustrating data transfer connections and various components of the project ")
 
 
 
